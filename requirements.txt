@@ -1,0 +1,6 @@
+opencv-python
+transformers
+sentence-transformers
+torch
+pillow
+scikit-learn
