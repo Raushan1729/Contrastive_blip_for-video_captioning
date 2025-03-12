@@ -1,4 +1,4 @@
-# Video Captioning and Summarization using BLIP and NLP Models
+# Video Captioning using Contrastive BLIP approach with multiple NLP Models
 
 ## Overview
 This project extracts frames from a video, generates captions for each frame using the BLIP model, clusters similar captions using cosine similarity, removes redundancy, and finally summarizes the captions using a transformer-based summarization model.
